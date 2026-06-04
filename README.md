@@ -1,3 +1,9 @@
+## Preview
+
+<img width="1166" height="833" alt="image" src="https://github.com/user-attachments/assets/0e4c9eb8-e1aa-4e98-b1be-9cdd100d87dc" />
+
+---
+
 # Todo Avançado
 
 Aplicação de lista de tarefas (To-Do List) desenvolvida com HTML, CSS e JavaScript puro, sem dependência de frameworks ou ferramentas de build. As tarefas são persistidas no navegador via **LocalStorage**, garantindo que os dados não sejam perdidos ao recarregar a página.
